@@ -1,4 +1,4 @@
-from lesson_1 import *
+from lesson_one import *
 
 run_cases = [
     (
@@ -45,7 +45,7 @@ def test(input1, expected_output):
     return False
 
 
-def lesson_1():
+def lesson_one():
     passed = 0
     failed = 0
     for test_case in test_cases:
@@ -65,4 +65,4 @@ test_cases = submit_cases
 if "__RUN__" in globals():
     test_cases = run_cases
 
-lesson_1()
+lesson_one()
