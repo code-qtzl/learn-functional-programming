@@ -1,3 +1,5 @@
 # learn-functional-programming
 
-This repo contains my solutions for a Functional Programming course.
+### Math
+
+Given a list of numbers representing font sizes, return the median of the list. This was tricky.
