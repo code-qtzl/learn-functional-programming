@@ -7,6 +7,11 @@
 
 #### First-class function Example:
 
-`def square(x): return x \* x # Assign function to a variable f = square print(f(5)) # 25`
+```def square(x):
+return x \* x
+# Assign function to a variable
+f = square
+print(f(5)) # 25
+```
 
 #### Higher-order function Example:
