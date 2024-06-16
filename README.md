@@ -1,3 +1,5 @@
 # learn-functional-programming
 
-This repo contains my solutions for a Functional Programming course.
+# Immutability
+
+Once a value is created, it cannot be changed. Mutable data, on the other hand, can be changed after it's created.
