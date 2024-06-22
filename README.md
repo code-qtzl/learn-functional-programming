@@ -1,5 +1,5 @@
 # learn-functional-programming
 
-### Map
+### Filter
 
-The map function takes a function and an iterable (in this case a list) as inputs. It applies the function to each element in the iterable and returns a new iterable with all the results.
+The filter function takes a function and an iterable (in this case a list) and returns a new iterable that only contains elements from the original iterable where the result of the function on that item returned True.
