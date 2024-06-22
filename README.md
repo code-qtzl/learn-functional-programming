@@ -1,5 +1,5 @@
 # learn-functional-programming
 
-### Map
+### Reduce
 
-The map function takes a function and an iterable (in this case a list) as inputs. It applies the function to each element in the iterable and returns a new iterable with all the results.
+Reduce is a built in function that takes a function and a list of values, and applies the function to each value in the list, accumulating a single result as it goes.
